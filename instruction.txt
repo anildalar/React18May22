@@ -1,0 +1,16 @@
+SPA (Single Page Application)
+
+ReactJs is nothing but a NodeJS Project
+
+
+In order to install a react project you need npm
+
+npm = node Package Manager
+
+Just Donwnload NodeJs and Install
+npm 
+
+1 . npm i npx
+2. npm install -g create-react-app
+3. npx create-react-app <projext_name>
+-g = globally
