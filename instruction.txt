@@ -21,4 +21,11 @@ npm
 js = Javascript
 
 
+url addresses
+
+http://address:portno
+
+http://localhost:3000
+
+
 json = Javascript Object Notation
