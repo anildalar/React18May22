@@ -1,5 +1,7 @@
 SPA (Single Page Application)
 
+ReactJs Application are SAP
+
 ReactJs is nothing but a NodeJS Project
 
 
@@ -13,4 +15,10 @@ npm
 1 . npm i npx
 2. npm install -g create-react-app
 3. npx create-react-app <projext_name>
--g = globally
+4. npm start
+
+
+js = Javascript
+
+
+json = Javascript Object Notation
